@@ -169,3 +169,6 @@
       -webkit-filter: drop-shadow(5px 5px 5px #222);
       filter: drop-shadow(5px 5px 5px #222);
   }
+ tr:nth-child(even){background-color: #f2f2f2;}
+
+ tr:hover {background-color: #ddd;}
